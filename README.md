@@ -1,2 +1,3 @@
 # code-snippets
-Some code found on the way
+Some snippets of code found or written on the way
+

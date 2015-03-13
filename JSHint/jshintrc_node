@@ -1,0 +1,12 @@
+{
+	"strict": true,
+	"node": true,
+	"laxbreak": true,
+	"laxcomma": true,
+	"lastsemic": true,
+	"white": true,
+	"nomen": false,
+	"asi": true,
+	"curly": false,
+	"newcap": true
+}
